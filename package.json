@@ -1,6 +1,6 @@
 {
   "name": "the-superawesome-frontend-boilerplate",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "My Vue frontend starter with tests, CI/CD - everything dockerized, don't even need nodejs locally! Also with a styleguide for large-scale frontend projects",
   "main": "src/index.ts",
   "scripts": {
